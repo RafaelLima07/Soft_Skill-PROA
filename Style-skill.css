@@ -89,6 +89,7 @@ h5 {
 .paragrafo {
     padding: 10px;
     font-size: 16pt;
+    color: white;
     text-align: justify;
     font-family: 'Montserrat', sans-serif;
 }
