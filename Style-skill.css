@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
-    color: white;
 }
 
 .newcolor {
@@ -33,6 +32,7 @@ body {
     font-size: 24px;
     font-weight: 500;
     margin: 10px;
+    color: white;
 }
 
 h4{
@@ -42,6 +42,7 @@ h4{
     font-weight: 700;
     font-size: 28pt;
     font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 
 h5 {
@@ -119,15 +120,18 @@ h5 {
     align-items: center;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 
 .rodape{
     text-align: center;
     background-color: #9C38FE;
+    color: white;
     padding: 10px;
     font-family: 'Montserrat', sans-serif;
 }
 
 .btn-secondary{
     background-color: #0A66C2;
+    color: white;
 }
